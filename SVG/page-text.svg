@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="line" display="none">
+	<g display="inline">
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M24.482,29.5H7.518c-1.192,0-2.158-0.966-2.158-2.158V3.658C5.36,2.466,6.326,1.5,7.518,1.5h9.43c0.588,0,1.15,0.24,1.557,0.664
+			l7.535,7.857c0.385,0.402,0.6,0.937,0.6,1.493v15.828C26.64,28.534,25.674,29.5,24.482,29.5z"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9" y1="9" x2="22" y2="9"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9" y1="16" x2="22" y2="16"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9" y1="23" x2="22" y2="23"/>
+		<polygon fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="26.64,10 17,10 
+			17,1.5 		"/>
+		
+			<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			26.64,10 17,10 17,1.5 		"/>
+	</g>
+</g>
+<g id="rasterized">
+	<g>
+		<path d="M22,15H9c-0.552,0-1,0.448-1,1s0.448,1,1,1h13c0.552,0,1-0.448,1-1S22.552,15,22,15z"/>
+		<path d="M22,22H9c-0.552,0-1,0.448-1,1s0.448,1,1,1h13c0.552,0,1-0.448,1-1S22.552,22,22,22z"/>
+		<path d="M26,13v14.342C26,27.98,25.121,29,24.482,29H7.518C6.879,29,6,27.98,6,27.342V3.658C6,3.02,6.879,3,7.518,3H14V1H7.518
+			C5.776,1,4,1.917,4,3.658v23.685C4,29.083,5.776,31,7.518,31h16.965C26.224,31,28,29.083,28,27.342V13H26z"/>
+		<path d="M9,10h5V8H9C8.448,8,8,8.448,8,9S8.448,10,9,10z"/>
+		<path d="M17,11h9.64c0.007,0,0.013,0,0.02,0c0.552,0,1-0.448,1-1c0-0.357-0.188-0.671-0.47-0.848L17.661,0.75
+			c-0.295-0.261-0.716-0.321-1.073-0.162C16.23,0.75,16,1.107,16,1.5V10C16,10.552,16.448,11,17,11z M18,3.715L23.994,9H18V3.715z"
+			/>
+	</g>
+</g>
+</svg>

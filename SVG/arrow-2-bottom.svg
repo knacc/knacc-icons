@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="line" display="none">
+	
+		<polyline display="inline" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		30,10 16,26 2,10 	"/>
+	<path display="inline" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M29.194,37.706l-3.078-3.078
+		c-0.497-0.497-1.304-0.497-1.802,0l-0.638,0.638l0,0L10.763,48.179l4.88,4.88L28.56,40.141l0.634-0.634
+		C29.692,39.01,29.692,38.203,29.194,37.706z"/>
+</g>
+<g id="rasterized">
+	<g>
+		<path d="M16,27c-0.289,0-0.562-0.125-0.752-0.341l-14-16c-0.364-0.416-0.322-1.047,0.094-1.411
+			c0.416-0.365,1.047-0.321,1.411,0.094L16,24.481l13.248-15.14c0.364-0.414,0.995-0.457,1.411-0.094
+			c0.416,0.364,0.458,0.995,0.094,1.411l-14,16C16.562,26.875,16.289,27,16,27z"/>
+	</g>
+</g>
+</svg>
