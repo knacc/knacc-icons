@@ -1,6 +1,8 @@
 Knacc Icons
 ===========
 
+http://icons.knacc.co
+
 A BEAUTIFUL SELECTION OF OUTLINED ICONS. FREE TO USE. ANYTIME, ANYWHERE.
 
 Available in PSD, CSH, SVG and Webfont format.
